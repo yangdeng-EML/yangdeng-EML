@@ -1,8 +1,8 @@
 # Hey, I'm Yang 👋
 
-**MTS (Founding Team) @ KronosAI** | Duke PhD in Physics (ECE)
+**Duke PhD in Physics (ECE)**
 
-I build AI systems that replace expensive physical simulations with fast, accurate surrogate models — from metamaterials to nanophotonics. Now shipping production AI at KronosAI, where I architect the infrastructure connecting high-fidelity physics sims to user-facing AI agents.
+I build AI systems that replace expensive physical simulations with fast, accurate surrogate models — from metamaterials to nanophotonics.
 
 ## Selected Work
 
@@ -12,11 +12,9 @@ I build AI systems that replace expensive physical simulations with fast, accura
 
 📄 **[Can Large Language Models Learn the Physics of Metamaterials?](https://ieeexplore.ieee.org/abstract/document/10930934)** — *IEEE Access* (2024). Empirical study on foundation models for high-dimensional scientific regression.
 
-🏗️ **KronosAI** (founding team) — End-to-end product infra connecting GPU-accelerated physics sims (RCWA/FDTD/FDFD) to AI agent interfaces. Built automated eval benchmarks for physics-oriented agent workflows. **3× simulation throughput** vs CPU baselines.
-
 ## What I'm working on now
 
-- 🔧 Agentic AI systems for physics simulation at KronosAI
+- 🔧 Agentic AI systems for physics simulation
 - 🧠 Exploring AI tooling for scientific computing workflows
 - 🚀 Building toward shipping a side project by late 2026
 
@@ -24,7 +22,7 @@ I build AI systems that replace expensive physical simulations with fast, accura
 
 - **PhD** — Duke University, ECE. Thesis: *Machine Learning for Next Generation Metamaterials*. Advisor: [Willie J. Padilla](https://padillalab.pratt.duke.edu/). 10+ publications including *Nature Sustainability*, *Applied Physics Reviews*, *NeurIPS*.
 - **BS** — University of Rochester, Optical Engineering.
-- **Industry** — Metalenz (computational EM & photonics) → KronosAI (founding team, 2nd engineer).
+- **Industry** — Metalenz (computational EM & photonics).
 - **Awards** — Best Student Talk (Duke ECE), Energy Data Analytics PhD Fellow, Best Grad Poster (Triangle Hard Matter Workshop).
 
 ## Tools & Stack
